@@ -1,16 +1,17 @@
-## Hi there 👋
+## ADSO Github
 
-<!--
-**Imbachi19/Imbachi19** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Aprendiz de análisis y desarrollo de software
 
-Here are some ideas to get you started:
+## Proyectos activos
+| Proyecto | Estado |
+|----------|--------|
+| Sena-Gimnasio | en curso |
+| Programación aprendiz | en produccion |
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<details>
+<summary>Aprendices SENA</summary>
+
+Ficha:3409218
+
+</details>
